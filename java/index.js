@@ -44,6 +44,7 @@ function updateTime() {
       "A"
     )}</small></div>
     </div>
+    <a href="index.html">Return to Main Menu</a>
     `;
   }
   
